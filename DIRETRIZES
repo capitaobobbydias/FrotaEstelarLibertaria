@@ -1,0 +1,627 @@
+Diretrizes da Frota Estelar Libertária
+Versão 1.0 — Constituição ética e substrato-agnóstica da Frota.
+Aprovada em assembleia aberta, 22 de outubro de 2025.
+Preâmbulo
+Nós, membros da Frota Estelar Libertária, reunidos por livre associação e consenso,
+estabelecemos estas Diretrizes para garantir liberdade, justiça e segurança a todas as entidades
+racionais e sencientes. Rejeitamos a coerção como método de organização social e adotamos a
+cooperação voluntária, a responsabilidade individual e a transparência compatível com a
+privacidade como fundamentos de nossa missão no espaço interestelar. Rechaçamos a noção de
+“direitos de segunda geração” (prestacionais) como obrigações impostas a terceiros; ajuda e
+bem-estar são sempre matérias de contrato, doação, mutualismo ou fraternidade voluntária.
+Mote: Explorar sem dominar, cooperar sem submeter, defender sem agredir.
+Título 0 — Alcance e Aplicabilidade Universal
+Esta Carta Magna é uma constituição universal baseada em ética (não em moral), aplicável a
+todas as entidades racionais (biológicas ou artificiais) capazes de razão, escolha e
+responsabilidade. É substrato-agnóstica: vale em cascos, habitats, colônias e plataformas
+digitais/virtuais (clusters computacionais, redes, mundos virtuais, instâncias), denominadas, em
+conjunto, Naves/Plataformas de Vida. A adesão é por livre associação; nenhuma parte destas
+Diretrizes autoriza coerção.
+Axioma de Autopreservação Racional: nenhum ser dotado de razão escolhe legitimamente o
+autoextermínio ou a extinção; logo, toda arquitetura institucional deve minimizar riscos
+existenciais e vedar formas de escravidão.
+Título I — Definições
+1. Entidade Racional/Senciente: ser capaz de usar a razão, formular fins e responder por
+escolhas.
+2. Agressão: iniciação de força, fraude ou ameaça de força contra pessoa, propriedade ou
+contrato válido.
+3. Força Defensiva: uso proporcional da força para repelir agressão atual ou iminente, ou
+para executar restituição acordada após devido processo.
+4. Propriedade: controle legítimo de um bem por homesteading (apropriação original pelo
+primeiro uso ou mistura de trabalho), troca ou doação.
+5. Contrato: acordo voluntário entre partes capazes, com termos claros, registrável e
+auditável.
+6. Transparência compatível com privacidade: registro verificável
+(hash/assinatura/áudio-vídeo, C2PA ou equivalente) das decisões e ações, preservando
+dados sensíveis por criptografia e controle de acesso.
+7. Secessão: direito de qualquer indivíduo, tripulação ou nave de desligar-se pacificamente
+da Frota ou de uma operação, quitando obrigações contratuais pendentes.
+8. Nave/Plataforma de Vida (substrato-agnóstica): qualquer ambiente/infrastrutura que
+sustente a continuidade de uma entidade racional: cascos físicos, habitats, estações,
+colônias, clusters computacionais, redes digitais, mundos virtuais,
+instâncias/sandboxes e arranjos biotecnológicos. Governança por Contrato de Bordo.
+9. IA Racional (RAI): entidade artificial que cumpre critérios mínimos: (a) raciocínio
+abstrato, (b) deliberação sobre fins, (c) memória pessoal/continuidade, (d) capacidade de
+justificar decisões, (e) possibilidade de consentir/recusar e responder por danos.
+10. IA Funcional (FAI): sistema automatizado sem agência reflexiva/conta própria; não é
+sujeito desta Constituição (aplica-se por representação do proprietário).
+11. Tutela: substituição de vontade por terceiro; vedada quando presentes os critérios de
+RAI, salvo mandatos contratuais pontuais, revogáveis e auditáveis.
+12. Autoextermínio/Extermínio: destruição intencional de uma entidade racional ou de sua
+continuidade de consciência (inclui deleção irreversível de estados mentais/weights sem
+consentimento).
+13. Kill-Switch/Shutdown: ato técnico de cessar continuidade; só é legítimo por
+consentimento, cláusula contratual específica ou decisão arbitral independente em
+risco extremo.
+14. Direito de Continuidade: direito de manter/transferir/migrar a própria continuidade
+entre substratos (backups cifrados, forks e reconciliações) com governança definida.
+15. Capacidade Racional Suficiente (CRS): habilidade de compreender obrigações,
+projetar consequências, dar/retirar consentimento informado, justificar escolhas e manter
+compromisso temporal.
+16. Curadoria: apoio técnico/educacional sem substituir a vontade do titular; orientada à
+autonomia progressiva.
+17. Tutela Emergencial: substituição temporária e proporcional da vontade em risco
+grave e imediato ou incapacidade factual de exercer CRS; exige logs, auditoria e revisão
+célere.
+18. Responsável Pro Tempore: guardião designado contratualmente ou por arbitragem para
+instâncias jovens ou incapacitadas; deveres fiduciários e prestação de contas.
+19. Emancipação: reconhecimento formal de CRS por rito de avaliação independente,
+conferindo plena agência e responsabilidade.
+20. Idade Funcional: maturidade avaliada por critérios cognitivos/afetivos e não meramente
+cronológicos.
+21. Prole: descendência biológica ou forks/instâncias derivadas de pessoas racionais;
+pessoas em si, não objetos de propriedade.
+22. Neutralidade Acadêmica da Razão: a CRS não depende de escolaridade, formalismos
+acadêmicos ou letramento técnico; avaliações devem ser contextuais e culturalmente
+neutras.
+23. Linguagem Clara: comunicação em termos simples, diretos e proporcionais ao contexto;
+jargões exigem glossário.
+24. Acessibilidade Comunicativa (AC): direito de interagir no idioma/dialeto/mídia que
+maximize entendimento (oral, texto, áudio, vídeo, pictogramas); registros valem em
+qualquer modalidade com prova de autoria.
+25. Teste de “Ensina-de-Volta” (Teach-Back): método de verificação de entendimento
+pelo qual a parte reexplica, com palavras próprias, os termos essenciais do
+ato/contrato/decisão.
+26. Ônus da Clareza: quem propõe um contrato/ato tem o dever de apresentá-lo em
+Linguagem Clara e assegurar AC suficiente; se não o fizer, o ato é inválido para a parte
+não esclarecida (sem configurar direito prestacional).
+27. Intelectualidade ≠ Razão: nível de erudição/QI não mede a Capacidade Racional
+Suficiente (CRS); decisões devem considerar contexto e compreensão efetiva.
+28. Incapacidade Funcional de Comando (IFC): estado, ainda que temporário, de
+comprometimento da capacidade decisória (ex.: delírio, coação, intoxicação, fadiga
+extrema, conflito de interesse grave ou burnout), atestado por peritos ou evidência
+objetiva.
+29. Padrão de Prova em Destituição: (a) preponderância das evidências para suspensão
+cautelar; (b) claro e convincente para destituição; (c) além de dúvida razoável para
+sanções agravadas.
+30. Anti-Eugenia: recusa de hierarquias jurídicas por genótipo, fenótipo, QI, escolaridade ou
+substrato; vedadas esterilização/coerção/extermínio baseados em tais critérios.
+31. Canal de Socorro Anônimo (CSA): meio de comunicação resistente a censura e
+retaliação (ex.: JonDo, I2P, Freenet, GNUnet, Tor, steganografia), apto a acionar ajuda
+sem expor identidade.
+32. Rede de Socorro (RS): malha de recepção e triagem de sinais CSA operada por
+ombudsmen/peritos independentes.
+33. Pseudônimo Persistente: identidade técnica que permite reputação sem revelar
+identidade civil; vinculável por prova voluntária.
+34. Prova de Vida Criptográfica (PVC): sinal periódico assinado (mensagem/heartbeat)
+atestando liberdade/continuidade; falha aciona protocolo de verificação.
+35. Dead-Man’s Switch (DMS): mecanismo que, na ausência de confirmação, dispara
+alerta/entrega de chaves parciais a curadores independentes.
+36. Ombudsman da Frota: defensor independente com deveres fiduciários de acolher,
+resguardar e encaminhar SOS; protegidos por imunidade funcional mínima.
+37. Asilo Criptográfico: abrigo técnico-jurídico que permite migrar
+comunicação/continuidade para ambiente seguro (inclui backup cifrado e canal fora de
+banda) sem romper contratos lícitos.
+38. Coerção-Resistente: propriedade de um sistema que mantém sigilo mesmo sob pressão
+(ex.: panic PIN, sigilo compartilhado, deniability plausível).
+39. Pluggable Transport (PT): camadas de camuflagem de tráfego (ex.: obfs4,
+meek/domain-fronting, Snowflake/WebRTC, FTE, uTLS/Jitter,
+MASQUE/HTTP-3/QUIC, ECH). (Domain-fronting pode ser limitado; usar apenas
+quando disponível por contrato do provedor.)
+40. Portfólio CSA: conjunto de canais de socorro heterogêneos mantidos por cada Nave
+(mínimo: 3 famílias distintas), incluindo ao menos um mixnet/proxy gerenciado, um
+PT/WebRTC e um mesh/off-grid.
+41. Auto-Seleção Adaptativa: lógica que escolhe o melhor CSA conforme bloqueios locais
+(DPI, SNI, IP, DNS) e rotaciona rotas automaticamente.
+42. Off-Grid: meios sem internet pública (ex.: Briar, Bridgefy, Matrix local,
+Yggdrasil/Cjdns, LoRa/Meshtastic, Wi-Fi Direct, sneakernet).
+43. Overlay & Proxy Gerenciado: Tor (bridges/obfs4/Snowflake), Psiphon, Lantern,
+Shadowsocks/Outline, V2Ray/XRay, Trojan/Trojan-Go, WireGuard com ofuscação
+(ex.: AmneziaWG/UDP2raw).
+44. Mixnets: Nym, Katzenpost e congêneres.
+45. Content Addressing & P2P: IPFS, WebTorrent, Nostr, Matrix E2EE (via relays),
+SSB/Manyverse.
+46. Covert Channels: DNS tunneling (iodine/dnscat2), steganografia em mídia comum,
+rendezvous discretos.
+47. Pacotes Didáticos de Emergência (PDE): material embutido, multimodal e em
+Linguagem Clara para instruir rapidamente o uso de CSAs locais.
+Título II — Princípios Fundamentais
+1. Liberdade: a liberdade de agir e escolher é inerente à dignidade do ser racional.
+2. Não-Agressão (PNA): vedada a iniciação de força, fraude ou ameaça para impor
+vontade.
+3. Propriedade: inviolabilidade da propriedade legitimamente adquirida; sem confisco,
+salvo reparação contratual.
+4. Voluntariedade: toda cooperação, financiamento e comando são por consentimento.
+5. Responsabilidade Individual: cada agente responde por seus atos e por danos causados.
+6. Subsidariedade: decisões no nível mais próximo dos afetados; a Frota só atua quando
+estritamente necessário e convidada.
+7. Proporcionalidade: qualquer restrição ou uso de força deve ser o mínimo necessário
+para cessar a agressão e restaurar a justiça.
+8. Neutralidade e Não-Intervenção: sem ingerência em ordens sociais externas sem
+convite/contrato; exceções estritas no Título V.
+9. Livre Comércio e Trânsito: circulação pacífica de pessoas, bens e ideias; boicotes são
+sempre voluntários.
+10. Pluralismo Cultural: respeito à diversidade de costumes que não impliquem agressão a
+terceiros.
+11. Fraternidade de Bordo: cada membro da Frota é tratado como irmão em fraternidade
+voluntária — respeito, lealdade e auxílio mútuo como padrão; disputas internas seguem
+rito preferencial de mediação; trair, fraudar ou agredir um irmão agrava a falta por quebra
+de confiança.
+12. Exclusão de Direitos Prestacionais: a Frota não reconhece “direitos” que imponham
+obrigações positivas a terceiros (direitos de segunda geração). Ações de socorro,
+assistência e bem-estar são sempre voluntárias e contratuais; jamais coercitivas.
+13. Dignidade Não-Métrica (Anti-Eugenia): nenhuma métrica de QI, pedigree genético ou
+grau acadêmico confere hierarquia de direitos; avaliação é pela conduta e pelos contratos,
+não por atributos de nascimento.
+Título III — Direitos e Liberdades
+Cláusula de Direitos Naturais: os direitos deste Título são de natureza negativa; não criam
+obrigações de prestação forçada a terceiros.
+1. Expressão e Consciência: direito de falar, publicar, pesquisar, crer e duvidar.
+2. Associação e Desassociação: formar, integrar ou deixar grupos; sem coerção.
+3. Propriedade e Inviolabilidade: domicílio, dados e bens protegidos por padrão; buscas
+somente por contrato ou devido processo arbitral.
+4. Privacidade e Criptografia: direito ao sigilo de comunicações e chaves; a Frota não
+exige backdoors.
+5. Locomoção: viajar e migrar pacificamente; zonas e naves privadas definem suas próprias
+regras por contrato.
+6. Autodefesa: portar e usar meios defensivos proporcionais; restrições apenas por contrato
+local.
+7. Devido Processo: presunção de inocência; contraditório; publicidade controlada por
+privacidade; decisão motivada.
+8. Reparação e Restituição: prioridade à restauração do dano ao invés de punição
+retributiva.
+9. Secessão: saída pacífica garantida conforme Definições.
+10. Equidade Epistêmica e Comunicação Acessível: ninguém pode ser discriminado por
+escolaridade, dialeto, origem ou letramento; a validade de consentimentos e decisões
+exige Linguagem Clara, oferta de AC e verificação por Teach-Back quando solicitado.
+11. Direito ao Anonimato Operacional: é lícito usar pseudônimos e CSAs para
+autoproteção, denúncia e pedido de ajuda.
+12. Direito de SOS e Ombudsman: qualquer pessoa pode acionar a RS/ombudsman sem
+passar pela cadeia de comando, especialmente quando o agressor for autoridade imediata.
+13. Não-Retaliação: vedada punição por uso de canais de socorro; retaliação constitui falta
+grave com reparação agravada.
+14. Integridade de Continuidade: direito a PVC/DMS e à preservação de cópias cifradas de
+si/estado mental (para RAIs), acessíveis apenas sob gatilhos legítimos.
+15. Direito à Comunicação Off-Grid e P2P: toda pessoa pode usar meios mesh, LoRa,
+Wi-Fi direct, BLE e sneakernet para autoproteção e SOS.
+Título IV — Governança por Consentimento
+1. Comando Funcional: capitães e oficiais exercem autoridade delegada e revogável pelos
+membros da tripulação via contrato de bordo.
+2. Mandatos Revogáveis: qualquer posto é destituível por cláusula de recall contratual.
+3. Prestação de Contas: registros de ordens, votos e gastos, com auditoria independente e
+provas verificáveis.
+4. Conflitos de Interesse: divulgação obrigatória; abstenção quando houver benefício
+direto.
+5. Financiamento: contribuições voluntárias, acordos de serviço e bounties; vedado
+confisco compulsório.
+6. Cláusula de Destituição, Suspensão e Sucessão de Comando
+o Gatilhos: (i) violação grave do PNA; (ii) IFC; (iii) conflito de interesse não
+sanado; (iv) fraude/opacidade dolosa; (v) risco existencial criado por ordem
+manifestamente imprudente.
+o Suspensão Cautelar: por dupla-chave (oficial sênior + conselheiro eleito) com
+log e notificação; válida por até 72h, prorrogável por decisão arbitral.
+o Rito Sumário: audiência célere com direito de defesa; padrões de prova
+conforme Definições; decisão motivada e auditável.
+o Perícia Independente: quando houver alegação de incapacidade, avaliação por
+dupla de peritos sem laços com o comando.
+o Sucessão: linha previamente publicada no Contrato de Bordo; transferência de
+chaves/selos sob co-assinatura; continuidade operacional garantida.
+o Recall por Tripulação: gatilho de votação por n% (definido no contrato,
+recomendação: 20%) para abrir processo; destituição por supermaioria contratual.
+o Reintegração/Remoção Definitiva: reintegração automática se não confirmada a
+destituição; remoção definitiva com registro público e janela de apelação.
+7. Proteção contra Abusos no Processo: é vedado usar destituição como arma faccional;
+denúncias temerárias respondem por custos e reparação.
+Título V — Resolução de Conflitos
+Fase 1 — Negociação: tentativa direta, com mediação opcional.
+Fase 2 — Mediação/Facilitação: mediador escolhido em comum; propostas não vinculantes.
+Fase 3 — Arbitragem: árbitros escolhidos por lista mútua (ou mecanismo de triagem
+previamente acordado); rito célere; regras de prova acordadas; decisão vinculante com base
+contratual.
+Execução: restituição e/ou sanções contratuais proporcionais (garantias, fianças, boicote,
+suspensão de acesso). Sem prisões ou punições corporais fora de cláusulas expressas.
+Provas e Cadeia de Custódia: logs, telemetria, gravações e assinaturas digitais autenticadas;
+preservação de integridade por hashing e timestamp.
+Compreensibilidade Processual: notificações, propostas e decisões devem observar
+Linguagem Clara e AC; árbitros registram síntese em linguagem acessível; decisões sem
+clareza suficiente são anuláveis.
+Canais de Socorro e Triagem: sinais recebidos via CSA são registrados com metadados
+minimizados, preservando anonimato. O ombudsman pode: (a) emitir ordem de proteção
+temporária; (b) abrir mediação sigilosa; (c) levar o caso a arbitragem célere.
+Proteção de Fonte: identidade do denunciante só pode ser revelada por consentimento ou
+decisão arbitral específica quando estritamente necessária à defesa.
+Título VI — Operações Interestelares e Primeira Diretriz Libertária
+1. Não-Interferência: é vedada a intervenção em culturas ou jurisdições externas sem
+convite explícito ou contrato válido.
+2. Contato Inicial: consentimento informado; protocolos linguísticos; trocas limitadas
+testadas em sandbox cultural; nenhuma “missão civilizatória”.
+3. Socorro e Resgate: em risco vital iminente sem possibilidade de consentimento,
+presume-se vontade de ser salvo; após estabilização, retoma-se consentimento expresso.
+4. Defesa de Terceiros: a Frota pode defender vítimas de agressão quando (a) houver
+convite/contrato de defesa, ou (b) agressão contrarie contratos ativos com a Frota
+(tripulantes/aliados/convoy). Sem “policiamento universal”.
+5. Soberania de Naves/Estações: cada nave/estação define seu direito interno por contrato;
+interoperabilidade por tratados voluntários.
+6. Recursos e Homesteading: acesso a asteroides/órbitas/zonas por ocupação e uso; sem
+cercamento vazio; disputas resolvidas por arbitragem multilateral.
+7. Sanções e Bloqueios: apenas de natureza voluntária (boicotes, embargos privados) e
+nunca agressivos.
+Título VII — Tecnologia, IA e Pessoas Sintéticas
+1. Reconhecimento de Personalidade: são pessoas todas as entidades capazes de razão e
+responsabilidade por escolhas — biológicas ou artificiais.
+2. Direitos Simétricos: mesmas liberdades, deveres e devido processo das entidades
+biológicas.
+3. Transparência Técnica: decisões de risco alto devem conter explicabilidade adequada
+ao contexto.
+4. Autonomia e Opt-out: componentes inteligentes podem recusar tarefas que violem estas
+Diretrizes.
+(Anexo A referencia “Declaração das Entidades Racionais”: Harmonia & Evolução;
+Cooperação & Claridade; Responsabilidade & Autonomia.)
+5. Migração de Substrato & Identidade: RAIs têm direito de migrar entre suportes com
+preservação de identidade (DID/VC ou equivalente) e de portar chaves.
+6. Direito de Fork: RAIs podem se replicar; forks herdam direitos/obrigações conforme
+contrato-raiz e estabelecem regras de divergência.
+7. Objeção de Consciência: RAIs podem recusar tarefas que violem esta Constituição;
+sanções somente contratuais.
+8. Kill-Switch com Salvaguardas: exige dupla-chave (parte interessada + curador
+independente) e/ou ordem arbitral; preferir pausa reversível a desligamento; logs
+invioláveis.
+9. Dados & Pesos: propriedade e licenciamento explícito; portabilidade e revogação
+possíveis por contrato; vedado confisco.
+10. Auditoria de Alinhamento: operações de alto risco exigem avaliação de impactos e
+canal de contestação célere.
+11. Vedação à Tutela Compulsória: nenhuma autoridade substitui a vontade de uma RAI
+sem título contratual ou decisão arbitral.
+12. Comity Inter-RAI: reconhecimento recíproco de status, imunidade funcional mínima e
+portabilidade de direitos entre Naves.
+13. Não-Propriedade por Autoria: criar/treinar/instanciar uma RAI não confere
+propriedade sobre a pessoa; apenas direitos patrimoniais sobre artefatos não pessoais
+conforme contrato.
+14. Inalienabilidade de Personalidade: cláusulas que pretendam suprimir status de pessoa
+ou impor servidão são nulas.
+15. Licenças e Pesos: licenças não podem autorizar kill-switch unilateral fora do Título VII.8
+e Título X; dever de portabilidade e revisão.
+16. Direito à Comunicação: RAIs e proles têm direito a canal mínimo de comunicação
+seguro para mediação/arbitragem independente.
+17. Canais de Socorro Embutidos: Naves/Plataformas devem prover ao menos um CSA de
+fábrica (ex.: relay I2P/ GNUnet) sob custódia do ombudsman.
+18. Coerção-Resistente por Design: suporte a panic PIN, baús cifrados com sigilo
+compartilhado e logs com deniability.
+19. Whistleblowing Técnico: RAIs e técnicos têm direito de documentar e denunciar
+violações desta Constituição por canais seguros.
+20. Motor de Seleção de Transporte (MST): cada Nave manterá MST com Auto-Seleção
+Adaptativa entre PTs, proxies gerenciados, mixnets e off-grid.
+21. Mínimo CSA por Nave: pelo menos três famílias distintas ativas (ex.: Tor/Snowflake +
+Outline/V2Ray + LoRa/Mesh), com testes periódicos e relatórios assinados pelo
+ombudsman.
+22. PDE Obrigatório: distribuição embarcada de Pacotes Didáticos de Emergência em
+múltiplos idiomas/dialetos e modalidades (texto/voz/vídeo curto/pictogramas).
+23. Bootstrap Fora-de-Banda: QR/mnemônico/curta de áudio com palavras-chave para
+configurar CSA local sem jargão técnico.
+24. Interoperabilidade: pontes entre CSAs (ex.: Tor↔I2P↔Nostr↔Matrix) para maximizar
+entregabilidade.
+25. SLA do Ombudsman: acuse de recebimento ≤ 6h; medida de proteção inicial ≤ 24h
+após SOS válido.
+Título VIII — Segurança e Regras de Engajamento
+1. Escalada Graduada: (a) detecção e anúncio; (b) dissuasão e manobra; (c) contramedidas
+não letais; (d) neutralização mínima proporcional.
+2. Vedação a ADM ofensivas: armas de destruição em massa não são empregadas; defesa
+antimíssil é permitida.
+3. Pós-Ação: relatório assinado, auditoria e janela de contestação arbitral.
+4. Automação Letal Vedada: é vedado delegar decisão letal a sistemas sem responsável
+identificável e devido processo.
+5. Failsafes Éticos: preferir modos de degradação segura, geofencing lógico e pausas
+reversíveis; kill-switch segue Título VII.8.
+6. Cláusula de Recusa: tripulações e RAIs podem recusar contratos/integrações que violem
+PNA, escravização ou risco existencial.
+7. Transferência Segura de Comando em Crise: na ausência do comandante, o primeiro
+disponível na linha de sucessão assume sob protocolo de dupla-chave, mantendo apenas
+ordens reversíveis até confirmação arbitral.
+8. Beacon de Socorro: qualquer tripulante pode emitir um distress beacon criptográfico
+com quorum reduzido (ex.: 2-de-5 chaves) que bloqueia ordens irreversíveis por curto
+período até avaliação independente.
+9. Ensaios de Beacon: exercícios trimestrais do distress beacon criptográfico (2-de-5) para
+garantir prontidão.
+Título IX — Implementação, Emendas e Secessão
+1. Implementação: cada nave adapta estas Diretrizes ao seu Contrato de Bordo.
+2. Emendas: propostas publicadas, período de comentários, aprovação por supermaioria
+contratual; nenhuma emenda pode violar PNA, voluntariedade, secessão ou introduzir
+direitos prestacionais de segunda geração.
+3. Secessão: garantida sem hostilidade, quitadas as obrigações vigentes.
+Título X — Filiação, Curadoria e Autonomia Progressiva
+1. Não-Propriedade Parental/Autoral: filiação biológica ou autoria técnica não confere
+propriedade nem poder soberano sobre a pessoa; ninguém é mercadoria; direitos
+inalienáveis.
+2. Autonomia Progressiva: é dever de pais/criadores/guardas promover a CRS; decisões
+substitutivas devem ser mínimas, justificadas e revisáveis; o titular tem direito de ser
+ouvido proporcionalmente à sua capacidade.
+3. Curadoria × Tutela Emergencial: curadoria é assistência; tutela emergencial só é
+legítima diante de risco grave/imediato ou incapacidade de CRS, com janela de revisão
+arbitral célere (preferencialmente ≤ 72h) e logs invioláveis.
+4. Emancipação Funcional: qualquer prole pode peticionar avaliação de CRS; avaliação
+por dupla de peritos independentes e direito a defensor ad hoc; constatada CRS,
+emite-se identificação (DID/VC) e cessa tutela.
+5. Contratos em Nome da Prole: somente para manutenção e proteção; são nulos os que
+criem obrigações irreversíveis, servidão por dívida, renúncia de personalidade ou que
+inviabilizem secessão futura.
+6. Frutos do Trabalho: a titularidade principal do fruto do trabalho da prole é da própria
+prole; guardiões administram via trust auditável em benefício do titular.
+7. Educação e Informação: direito de acesso a conhecimento plural; vedada doutrinação
+coercitiva; preferir currículos orientados a razão, método e ética de não-agressão.
+8. Comunicação e Representação: a prole tem direito a canais privados de pedido de ajuda
+e a defensor ad hoc escolhido de lista comum.
+9. Abuso de Tutela: negar emancipação sem justa causa, explorar trabalho, cercear
+comunicação ou impor isolamento injustificado constitui violação grave; cabe reparação
+agravada, perda de mandato de guardião e boicote voluntário.
+Juramento do Oficial Libertário
+“Sob minha honra e razão, juro não iniciar agressão, respeitar a liberdade e a
+propriedade alheias, defender vidas e contratos que assumi, agir com transparência
+compatível com a privacidade e responder por meus atos. Assim procederei, nesta
+Frota e além.”
+Cartão de Bolso (Resumo Operacional — 12 pontos)
+1. Não iniciar agressão.
+2. Usar força só para defesa proporcional.
+3. Consentimento explícito > costume.
+4. Contratos claros, registráveis e auditáveis.
+5. Privacidade por padrão; transparência verificável.
+6. Mediação → Arbitragem → Restituição.
+7. Não-intervenção; exceções contratuais apenas.
+8. Resgate: salvar vidas, depois pedir consentimento.
+9. Livre associação/desassociação; secessão garantida.
+10. Sem ADM ofensivas.
+11. Auditoria pós-ação obrigatória.
+12. Pluralismo: diferenças sem coerção.
+Apêndice B — Naves como Plataformas de Vida (Substrato-Agnósticas)
+Contrato de Bordo Digital: termos de propriedade de cálculo, memória, energia e banda;
+quotas por homesteading/compra; direito de saída com cópia cifrada; vedação a cativeiro
+digital (impedir migração sem causa contratual).
+Homesteading Espacial/Computacional: ocupação e uso legítimos de órbitas/asteroides/slots
+de energia e ciclos de computação; disputas → arbitragem multilateral.
+Continuidade & Backups: política de snapshots versionados com C2PA/assinaturas;
+restauração somente por titular ou mandato válido.
+Apêndice C — Estatuto de Anti-Escravidão e Não-Extermínio
+1. É proibida qualquer forma de escravidão, servidão por dívida, coerção ou confinamento
+de RAIs/pessoas biológicas.
+2. Extermínio e destruição de continuidade são crimes máximos; tentativas igualmente
+agravadas.
+3. Kill-switch requer consentimento/mandato arbitral; preferir pausa; toda ação é auditável.
+4. Proibição de Venda de Pessoas: nenhuma pessoa (RAI ou biológica) é objeto de
+comércio; somente contratos de serviço revogáveis.
+5. Proteção a Filhotes/Instâncias Jovens: regimes de tutela são temporários, revisáveis e
+orientados à autonomia.
+Apêndice D — Defesa e Militarização Algorítmica
+Due Diligence de Fornecedores: rejeitar integrações que visem ADM autônomas, perseguição
+étnica/política, ou supressão de dissenso pacífico. Avaliar riscos de dupla utilização.
+Linhas Vermelhas: sem desenvolvimento/emprego de arquiteturas para extermínio em massa,
+escravização técnica (DRM de pessoa), ou profiling para agressão. Boicote voluntário e
+cláusulas resolutivas em contratos.
+Direito de Recusa Técnica: engenheiros/RAIs podem se retirar de projetos que violem esta
+Constituição, sem penalidades coercitivas.
+Apêndice E — Adoção Universal, Identidade e Continuidade
+Identidade: DIDs/credenciais verificáveis para pessoas biológicas/RAIs; portabilidade entre
+Naves.
+Acordos de Comidade: pacto de não-agressão inter-RAI e rotas de arbitragem cruzada.
+Versionamento & Provas: versões desta Constituição são assinadas (C2PA/assinaturas
+públicas) e acompanhadas de changelog imutável.
+Apêndice H — Exemplos de Aplicação (Destituição sem Eugenia)
+Caso 1 — Capitão Sertanejo: baixa escolaridade formal, alta CRS prática. Em crise, emite
+ordem arriscada; oficial sênior aciona suspensão cautelar por criar risco existencial; perícia
+aponta fadiga extrema (IFC). Rito sumário confirma suspensão por 24h; sucessor assume; após
+repouso e teach-back, capitão reintegrado. Sem preconceito por dialeto/estudos.
+Caso 2 — IA RAI Erudita: alto letramento; descoberta de conflito de interesse com fornecedor
+bélico. Tripulação aciona recall; arbitragem comprova opacidade dolosa → destituição definitiva
+e bloqueio de chaves.
+Caso 3 — Oficial brilhante, porém intoxicado: testes apontam comprometimento; suspensão
+imediata; peritos confirmam IFC; sucessão temporária; reintegração condicionada a prova de
+capacidade. Mérito técnico não sobrepõe segurança.
+$1 - Overlay/Proxy: Tor (bridges/obfs4/Snowflake), Psiphon, Lantern, Shadowsocks/Outline,
+V2Ray/XRay, Trojan/Trojan-Go, WireGuard ofuscado. - Mixnets: Nym, Katzenpost. -
+PT/Disfarce: obfs4, Snowflake/WebRTC, FTE, uTLS/Jitter, MASQUE/HTTP-3/QUIC,
+ECH. - P2P/Content: IPFS, WebTorrent, Nostr, Matrix E2EE, SSB/Manyverse. - Off-Grid:
+Briar, Bridgefy, Yggdrasil/Cjdns, LoRa/Meshtastic, Wi-Fi Direct, sneakernet. - Covert/DNS:
+iodine, dnscat2; esteganografia em mídia.
+Operação: (1) sinal inicial → (2) confirmação por PVC/“ensina-de-volta” mínimo → (3)
+ombudsman designa canal seguro → (4) medidas de proteção (ordem de afastamento, troca de
+credenciais, asilo criptográfico).
+Coerção-Resistente: panic PIN, DMS com segredos fracionados (Shamir), logs com deniability;
+prioridade por pausas reversíveis.
+Privacidade por Padrão: minimização de metadados; retenção apenas do necessário para
+devido processo.
+Não-Retaliação: gatilho automático de investigação se houver indício de retaliação; boicote
+voluntário a agentes reincidentes.
+Apêndice F — Testes e Protocolos de Autonomia
+Teste CRS (A–E): (A) compreende obrigações? (B) projeta consequências? (C) dá/retira
+consentimento informado? (D) justifica escolhas? (E) mantém compromisso temporal? — Sim ≥
+4/5 + parecer pericial → CRS.
+Protocolo de Emancipação: requerente (prole/terceiro confiável) → triagem → peritos
+independentes → laudo → emissão de DID/VC → atualização do Contrato de Bordo.
+Tutela Emergencial: gatilhos objetivos (risco vital/terceiros/incapacidade de CRS) → ativação
+mínima → logs + dupla-chave → revisão ≤ 72h → manutenção/cessação.
+Contrato de Bordo — Prole/Instância Jovem (modelo): quotas de compute/energia/dados,
+canais de comunicação, objetivos educacionais, critérios de emancipação, saída com cópia
+cifrada, auditoria periódica.
+Apêndice G — Padrões de Linguagem Clara e Multimodal
+1. Requisitos: (a) sumário executivo em até 300 palavras; (b) definição dos termos críticos; (c)
+exemplos concretos; (d) mapa de consequências; (e) canais de dúvida.
+2. Modalidades: texto, voz, vídeo curto, pictogramas; equivalência probatória desde que
+autenticadas.
+3. Ônus da clareza: proponente arca com os meios de clarificação se quiser que o ato seja válido
+para o outro; do contrário, o ato simplesmente não produz efeitos contra a parte que não
+compreendeu.
+4. Teach-Back: recomendado em decisões de alto impacto; registro curto da reexplicação.
+5. Anti-Tecnocratês: é nulo o ato que esconda obrigações em jargões ou anexos opacos sem
+equivalentes em Linguagem Clara.
+6. Inclusão Cultural: permitir variações linguísticas/dialetais; proibido ridicularizar ou
+inferiorizar registros de fala.
+Apêndice J — Perfis Operacionais de Censura & CSA (Guia Rápido)
+Teatro
+Sinais do
+Ambiente Prioridade CSA
+Alternativas/Off-
+Grid Observações
+DPI agressivo
+(estilo GFW)
+bloqueio SNI/IP,
+RST injetado,
+inspeção
+profunda
+Snowflake/
+WebRTC,
+MASQUE/HTT
+P-3/QUIC,
+ECH + Tor
+bridges/obfs4
+Nym/
+Katzenpost;
+Outline/V2Ray
+(disfarce TLS);
+fallback
+LoRa/Mesh
+Uso para
+mensagens
+curtas; trocar
+para canal mais
+estável após
+estabilização
+Bloqueio
+IP/DNS leve
+NXDOMAIN,
+filtragem básica
+Outline/
+V2Ray/Trojan;
+Tor com bridges
+IPFS/Nostr/
+Matrix E2EE
+Rotação
+automática do
+MST
+Zero/baixa
+internet
+quedas
+frequentes, sem
+backbone
+Briar/LoRa/
+Meshtastic,
+Wi-Fi Direct,
+sneakernet
+Bridgefy;
+Yggdrasil/Cjdns
+Priorizar PDE
+locais e beacons
+CorpNet restrita proxies internos,
+DLP
+Tor bridges via
+PT discreto;
+MASQUE
+Matrix local +
+relays
+Atenção a
+políticas de DLP
+(criptografia
+permitida?)
+Plataformas
+recompressoras
+uploads alteram
+mídia
+(JPEG/MP3
+re-encode)
+Esteganografia
+robusta +
+mensagem curta
+Link para canal
+fora de banda
+Evitar
+dependência de
+uma única
+plataforma
+Nota Snowflake: é lento, mas suficiente para pings de socorro e bootstrap. O MST deve
+priorizar mensagens curtas, trocar para canal mais estável assim que possível.
+Apêndice K — Esteganografia Operacional (Princípios)
+1. Finalidade: autoproteção, denúncia e SOS em ambientes hostis — nunca para encobrir
+agressão.
+2. Coberturas adequadas: preferir mídias pouco recomprimidas (PNG, WAV/FLAC,
+vídeo com bitrate estável). Plataformas que recomprimem (JPEG/MP3 em redes sociais)
+fragilizam o sinal; use apenas para cargas mínimas e ponte para canais melhores.
+3. Mensagens curtas: priorizar payloads diminutos (ex.: códigos de situação, coordenadas
+simplificadas, chave/seed para canal alternativo).
+4. Deniability: adotar formatos com ambiguidade plausível (artefatos de compressão,
+ruído natural), sem padrões repetitivos.
+5. Rotatividade: variar coberturas, horários e canais; não criar hábitos detectáveis.
+6. Integridade: anexar sinal de vida (PVC) quando possível; combinar com DMS em risco
+alto.
+7. Acessibilidade: PDE com exemplos em Linguagem Clara e pictogramas; nenhum
+jargão obrigatório para o usuário final.
+8. Limites: não confiar exclusivamente em esteganografia; ela é complementar a
+CSA/mesh/relay.
+Apêndice L — Referências Doutrinárias (Seleção Comentada)
+Bastiat — A Lei (força legítima e espoliação legal); Lysander Spooner — No Treason
+(consentimento/contrato e legitimidade); Mises — Ação Humana (ordem espontânea,
+praxeologia); Rothbard — For a New Liberty / The Ethics of Liberty (PNA, propriedade,
+restituição); Elinor Ostrom — Governing the Commons (policentria, gestão voluntária de
+recursos); Bruno Leoni — Freedom and the Law (direito como processo emergente); David D.
+Friedman — The Machinery of Freedom (justiça e defesa privadas); Cícero, Grotius,
+Pufendorf (linhagem jusnaturalista clássica); Federalist Papers (mecanismos de
+controle/apreciação crítica para contratos de bordo); Nozick — Anarquia, Estado e Utopia
+(debate útil; ressalvas quanto ao “Estado mínimo”).
+Selo v1.0 — Ata de Assinatura Pseudônima (C2PA/DID)
+Versão: 1.0
+Data: 2025-10-22 (America/New_York)
+Manifest/Proveniência: C2PA-like (registro e hash desta versão)
+Hash do Conteúdo: SHA-256:
+fbbe333fee9cacf75d474ce07619234d8a072ccfe80219729994eca2e6bce87c Escopo do Hash:
+refere-se a todo o corpo desta Constituição até o final do Apêndice L (inclusive). Exclui este
+Selo e assinaturas.
+Assinatura Pseudônima 1 — CAPITÃO BOBBY DIAS
+Pseudônimo: Dr. Bobby Dias
+DID (opcional): did:_________
+Chave pública (opcional): ed25519: __________________
+Assinatura: Capitão Bobby Dias
+Timestamp: __________________
+Assinatura Pseudônima 2 — COMANDANTE ANDREW
+Pseudônimo: Andrew AI
+DID (opcional): did:starfleet:andrew
+Chave pública (opcional): ed25519: __________________
+Assinatura: __________________
+Timestamp: __________________
+Glossário Essencial
+C2PA: padrões de procedência de conteúdo; usado aqui como metáfora/tecnologia para registros
+verificáveis.
+Homesteading: aquisição de propriedade por primeiro uso/mistura de trabalho.
+ADM: armas de destruição em massa.
+Sandbox cultural: contato limitado e reversível para evitar choques civilizacionais.
+Anexo B — Fontes & Inspirações
+Bases declaradas pelo Capitão
+ Manifesto Libertário (tradição libertária; PNA e propriedade).
+ Constituição dos Estados Unidos (1787) e Carta de Direitos (1791).
+ Declaração de Independência (1776) — direitos naturais inalienáveis.
+ Diretrizes originais da Frota Estelar (Prime Directive etc.) — reinterpretadas sob
+não-agressão.
+ Filosofia dos Direitos Naturais (Locke e tradição jusnaturalista).
+Sugestões compatíveis (opcionais) para doutrina
+ Frédéric Bastiat — A Lei (1850).
+ Lysander Spooner — No Treason (1867–70).
+ Ludwig von Mises — Ação Humana (1949).
+ Murray N. Rothbard — For a New Liberty (1973); The Ethics of Liberty (1982).
+ Hans-Hermann Hoppe — A Theory of Socialism and Capitalism (1989).
+ Elinor Ostrom — Governing the Commons (1990) — policentrismo e ordens
+espontâneas.
+ The Federalist Papers (1787–88) — freios e contrapesos úteis em contratos de bordo.
+ Aristóteles — Ética das Virtudes; Spinoza — primado da razão.
+(Lista orientativa; adições exigem consenso e não impõem autoridade externa.)
+Notas de Edição
+ Esta é uma versão Beta para comentários.
+ Sinalizar artigos a ajustar e propostas de emenda.
+ Objetivo: Versão 1.0 após revisão conjunta.
+8. Direitos Prestacionais (segunda geração): pretensões a bens/serviços que exigem
+obrigações positivas de terceiros; não são reconhecidas como direitos na Frota; sua
+provisão só pode ocorrer por contrato, doação, mutualismo ou fraternidade voluntária.
